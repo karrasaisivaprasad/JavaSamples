@@ -8,5 +8,6 @@ public class CallM {
         System.out.println("Calling Method 2");
     }
     public void method3(){System.out.println("Calling Method3");}
+    public void method4(){System.out.println("calling method4");}
 
 }
